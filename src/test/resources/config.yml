@@ -1,0 +1,4 @@
+environment:
+  name: dev
+screen:
+  type: web
